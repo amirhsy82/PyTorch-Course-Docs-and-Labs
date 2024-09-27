@@ -13,6 +13,10 @@ Before diving into this repository, please make sure you have the following prer
 1. Python version >=3.6 (Download from python.org)
 cm.com if necessary).
 2. Jupyter Notebook Server, installed through Anaconda or other suitable method
+
 `conda install -c conda-forge jupyter_contrib_nbextensions && \jupyter contrib nbexteps/install --system`
+
 3. Anaconda or Conda, if not already installed (recommended setup method above):    `conda create -n pytorch_env
 python=3.6 anaconda`     `source activate pytorch_env`
+
+But I highly recommend you to use google colab for using the materials of this course. See 
